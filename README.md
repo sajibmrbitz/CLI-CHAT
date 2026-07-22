@@ -1,4 +1,4 @@
-# LAN Chat CLI (`lanchat`)
+# CLI Chat (`lanchat`)
 
 Offline, LAN-only chat, installed once as a real terminal command — like `npm` or `pip`.
 No internet needed. Works up to **4 devices** per room.
