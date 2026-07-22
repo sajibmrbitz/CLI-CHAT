@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lanchat"
+version = "1.0.0"
+description = "Offline LAN chat CLI - host or join a chat room over local network"
+requires-python = ">=3.7"
+
+[project.scripts]
+lanchat = "lanchat.cli:main"
+
+[tool.setuptools]
+packages = ["lanchat"]

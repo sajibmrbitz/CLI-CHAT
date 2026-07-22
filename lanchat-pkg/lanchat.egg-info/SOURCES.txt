@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+lanchat/__init__.py
+lanchat/cli.py
+lanchat/client.py
+lanchat/roomcode.py
+lanchat/server.py
+lanchat.egg-info/PKG-INFO
+lanchat.egg-info/SOURCES.txt
+lanchat.egg-info/dependency_links.txt
+lanchat.egg-info/entry_points.txt
+lanchat.egg-info/top_level.txt

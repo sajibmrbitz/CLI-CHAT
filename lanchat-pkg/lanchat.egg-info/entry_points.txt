@@ -1,0 +1,2 @@
+[console_scripts]
+lanchat = lanchat.cli:main
